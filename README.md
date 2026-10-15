@@ -247,13 +247,9 @@ Dùng broker riêng có TLS, tài khoản và ACL cho triển khai thật; thêm
 
 Không tự ngã, làm người khác ngã hoặc tháo bỏ phương án hỗ trợ sẵn có để thử thiết bị. Sử dụng chuỗi dữ liệu mô phỏng. Đánh giá với dữ liệu chuyển động có gán nhãn và quy trình phù hợp trước khi đưa ra bất kỳ tuyên bố về độ nhạy hoặc độ đặc hiệu.
 
-## 13. Tài liệu tham khảo
+## 13. Lience
 
-- Wokwi MPU6050, chân và đơn vị: https://docs.wokwi.com/parts/wokwi-mpu6050
-- Wokwi ESP32 Wi-Fi: https://docs.wokwi.com/guides/esp32-wifi
-- Adafruit MPU6050, tham khảo cách đọc/đơn vị: https://learn.adafruit.com/mpu6050-6-dof-accelerometer-and-gyro/arduino
-- PubSubClient: https://pubsubclient.knolleary.net/api
-- HiveMQ public broker: https://www.mqtt-dashboard.com/
+
 - Bagalà và cộng sự (2012), đánh giá thuật toán trên té ngã thực tế: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0037062
 
 Nguồn nghiên cứu giúp giải thích nguyên lý và giới hạn; không phải bằng chứng kiểm định bộ ngưỡng hoặc sản phẩm này.
