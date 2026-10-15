@@ -19,19 +19,14 @@ Không dùng tên, vị trí hoặc thông tin sức khỏe thật với broker 
 
 | Tệp | Vai trò |
 |---|---|
-| BAT_DAU.html | Trang hướng dẫn nhanh, có nút sao chép code từng tệp |
-| wokwi/sketch.ino | I2C MPU6050, tác vụ 50 Hz, MQTT, LED/còi, nút nhấn và các bài TEST |
-| wokwi/FallDetector.h | Thuật toán phát hiện, hiệu chuẩn, Manual và giữ cảnh báo |
-| wokwi/diagram.json | Sơ đồ Wokwi đã vẽ |
-| wokwi/libraries.txt | PubSubClient và ArduinoJson |
+| README.html | Trang hướng dẫn nhanh, có nút sao chép code từng tệp |
 | web/index.html | Dashboard Web |
 | web/styles.css | Giao diện thích ứng PC/điện thoại |
 | web/app.js | Nhận MQTT, vẽ biểu đồ và gửi lệnh có xác nhận |
 | web/mqtt-wire.js | Giao thức MQTT 3.1.1 qua WebSocket, không dùng CDN |
 | tests/ | Các kiểm tra thuật toán / giao thức / logic Web |
-| KIEM_TRA.md | Những phần đã kiểm chứng và giới hạn |
 
-Giải nén toàn bộ rồi mở BAT_DAU.html. Khi mở dashboard cục bộ, giữ bốn tệp trong thư mục web cạnh nhau.
+Giải nén toàn bộ rồi mở tutorial.html. Khi mở dashboard cục bộ, giữ bốn tệp trong thư mục web cạnh nhau.
 
 ## 3. Kết nối Wokwi
 
