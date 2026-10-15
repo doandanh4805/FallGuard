@@ -1,4 +1,4 @@
-V# FALLGUARD – PHÁT HIỆN TÉ NGÃ ESP32 + MPU6050 + MQTT
+# FALLGUARD – PHÁT HIỆN TÉ NGÃ ESP32 + MPU6050 + MQTT
 
 Bản mô phỏng học tập / prototype. Không phải thiết bị cảnh báo y tế đã được kiểm định.
 
